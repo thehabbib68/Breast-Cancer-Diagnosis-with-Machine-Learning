@@ -74,7 +74,7 @@ Tested multiple models:
 
 ### 10.   👨‍💻 Author
 
-Syed Habib Haider
-Data Scientist & AI Consultant
-🔗 LinkedIn
-🔗 GitHub
+-  Syed Habib Haider
+-  Data Scientist & AI Consultant
+-  🔗 LinkedIn
+-  🔗 GitHub
